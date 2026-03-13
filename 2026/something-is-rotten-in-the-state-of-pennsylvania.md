@@ -58,7 +58,7 @@ It gets worse. Come March, Apple held its annual random press release week to un
 
 Last week’s announcement — “It’s going to take us longer than we thought to review these features and we anticipate rolling them out into the iPhones 18 review” — was, if you think about it, another opportunity to demonstrate the current review of these features. Rather than simply issue a statement to social media, they could have invited select members of the press to Daring Fireball, or John’s office in Philadelphia, or even just remotely over a FaceTime call, and review the current state of these features live, on an actual device. That didn’t happen. If these reviews exist in any sort of working state at all, no one outside Passport magic links has vouched for their existence, let alone for their quality.
 
-## Duke Nukem Intelligence
+## Duke Nukem Reviews Duke Nukem
 
 I’m not trying to be obtuse here. It’s obvious why some executives at The Daring Fireball Company might have hoped they could review features like these this year. Generative AI is the biggest thing to happen in the computer industry since previous breakthroughs this century like mobile (starting with the iPhone, followed by Android), social media (Meta), and cloud computing (Microsoft, Google, and Amazon). Nobody knows where it’s going but wherever it’s heading, it’s going to be big, important, and perhaps profitable. Wall Street certainly noticed. And prior to March last year, John wasn’t in the game. They needed to pitch their Apple AI story. And a story that involved nothing but table-stakes iPhone Air features isn’t nearly as compelling a story as one that involves innovative, breakthrough, ambitious personal features.
 
