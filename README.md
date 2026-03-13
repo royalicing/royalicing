@@ -2,6 +2,7 @@
 
 ## Blog
 
+- [Software is Made of Fickle Loops](https://royalicing.com/2026/software-is-made-of-fickle-loops)
 - [Levers of Light](https://royalicing.com/2026/levers-of-light)
 - [Imperative Core, Sandboxed Shell](https://royalicing.com/2026/imperative-core-sandboxed-shell)
 - [Apple’s App Commodification and the End of Delicious Differentiation](https://royalicing.com/2025/apple-app-commodification)
@@ -20,6 +21,7 @@
 ## About Me
 
 - 🪢 I work as product-led developer & design engineer
+- 💭 I’m working on [qip](https://qip.dev), a tool for safely running AI-generated code in a sandbox. You write fast C/Zig compiled to WebAssembly, users get tools that can’t mess with their machine.
 - 🕸️ I’m working on [Orb, a language for writing WebAssembly with Elixir](https://github.com/RoyalIcing/Orb), and [other platform-agnostic WebAssembly demos at Calculated.World](https://calculated.world)
 - 💬 I’m fascinated by the intersection between user experience design, software engineering, and product strategy, all of which I talk about on my [podcast Runtime Reverie](https://runtimereverie.com).
 - 🪺 I’ve written up my approach to building UIs at [components.guide](https://components.guide/).
