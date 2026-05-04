@@ -1,6 +1,7 @@
 ---
 date: 2019-01-13
 ---
+<meta property="og:published_time" content="2019-01-13">
 
 # Smart Reducers with React & Hooks
 

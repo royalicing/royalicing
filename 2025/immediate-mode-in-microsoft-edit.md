@@ -1,6 +1,7 @@
 ---
 date: 2025-05-22
 ---
+<meta property="og:published_time" content="2025-05-22">
 
 # Immediate mode in Microsoft’s new Edit TUI
 

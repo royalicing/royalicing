@@ -1,6 +1,7 @@
 ---
 date: 2019-04-11
 ---
+<meta property="og:published_time" content="2019-04-11">
 
 # Typed Subatomic Styling: Part 2 — Comparison to Styled-Components
 

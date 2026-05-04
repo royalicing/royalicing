@@ -1,6 +1,7 @@
 ---
 date: 2020-12-21
 ---
+<meta property="og:published_time" content="2020-12-21">
 
 # The Apple Experience Augmented — Part 2: Developer Experience
 

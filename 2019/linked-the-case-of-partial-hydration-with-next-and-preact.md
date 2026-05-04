@@ -1,6 +1,7 @@
 ---
 date: 2019-05-22
 ---
+<meta property="og:published_time" content="2019-05-22">
 
 # Linked: The case of partial hydration (with Next and Preact)
 

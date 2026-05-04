@@ -1,6 +1,7 @@
 ---
 date: 2025-03-24
 ---
+<meta property="og:published_time" content="2025-03-24">
 
 # Automated Tests or Documentation? Why Not Both.
 

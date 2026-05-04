@@ -2,6 +2,7 @@
 title: Accessibility-First Tool Concepts
 date: 2021-05-07
 ---
+<meta property="og:published_time" content="2021-05-07">
 
 # Accessibility-First Tool Concepts
 

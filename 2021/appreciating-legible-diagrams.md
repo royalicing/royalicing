@@ -1,6 +1,7 @@
 ---
 date: 2021-05-07
 ---
+<meta property="og:published_time" content="2021-05-07">
 
 # Appreciating Legible Diagrams
 

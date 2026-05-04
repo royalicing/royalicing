@@ -1,6 +1,7 @@
 ---
 date: 2019-02-16
 ---
+<meta property="og:published_time" content="2019-02-16">
 
 # Bartosz Ciechanowski on Color Spaces
 

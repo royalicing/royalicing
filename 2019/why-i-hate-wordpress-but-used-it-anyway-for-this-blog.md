@@ -1,6 +1,7 @@
 ---
 date: 2019-01-05
 ---
+<meta property="og:published_time" content="2019-01-05">
 
 # Why I hate WordPress but used it anyway for this blog
 

@@ -1,6 +1,7 @@
 ---
 date: 2022-02-14
 ---
+<meta property="og:published_time" content="2022-02-14">
 
 # The Missing App Economy
 

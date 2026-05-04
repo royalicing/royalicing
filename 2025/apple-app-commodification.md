@@ -1,6 +1,7 @@
 ---
 date: 2025-05-13
 ---
+<meta property="og:published_time" content="2025-05-13">
 
 # Apple’s App Commodification and the End of Delicious Differentiation
 

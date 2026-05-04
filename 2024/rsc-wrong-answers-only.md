@@ -1,6 +1,7 @@
 ---
 date: 2024-01-13
 ---
+<meta property="og:published_time" content="2024-01-13">
 
 # What does RSC stand for?
 

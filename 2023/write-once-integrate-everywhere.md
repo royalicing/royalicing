@@ -1,6 +1,7 @@
 ---
 date: 2023-03-15
 ---
+<meta property="og:published_time" content="2023-03-15">
 
 # Write Once, Integrate Everywhere
 

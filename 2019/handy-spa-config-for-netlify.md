@@ -1,6 +1,7 @@
 ---
 date: 2019-03-27
 ---
+<meta property="og:published_time" content="2019-03-27">
 
 # Handy SPA config for Netlify
 

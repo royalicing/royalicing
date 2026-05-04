@@ -2,6 +2,7 @@
 date: 2023-03-16
 title: WebAssembly allows script tags everywhere
 ---
+<meta property="og:published_time" content="2023-03-16">
 
 # WebAssembly allows `<script>` tags everywhere
 

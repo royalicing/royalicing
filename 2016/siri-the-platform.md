@@ -1,6 +1,7 @@
 ---
 date: 2016-05-27
 ---
+<meta property="og:published_time" content="2016-05-27">
 
 # Siri, the Platform: Services and Siri Threads
 

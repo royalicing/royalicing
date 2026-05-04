@@ -1,6 +1,7 @@
 ---
 date: 2023-03-28
 ---
+<meta property="og:published_time" content="2023-03-28">
 
 # Introducing Collected Press: Markdown Directly Loaded from GitHub, Rendered on the Edge
 

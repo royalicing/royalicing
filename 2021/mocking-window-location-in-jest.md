@@ -2,6 +2,7 @@
 title: Mocking window.location in Jest
 date: 2021-05-21
 ---
+<meta property="og:published_time" content="2021-05-21">
 
 # Mocking `window.location` in Jest
 

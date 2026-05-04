@@ -1,6 +1,7 @@
 ---
 date: 2020-01-13
 ---
+<meta property="og:published_time" content="2020-01-13">
 
 # People quickly accomplishing ambitious things together
 

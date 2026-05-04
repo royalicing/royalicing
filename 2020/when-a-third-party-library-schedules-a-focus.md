@@ -1,6 +1,7 @@
 ---
 date: 2020-05-28
 ---
+<meta property="og:published_time" content="2020-05-28">
 
 # When a third party library schedules a focus via `requestAnimationFrame()` and blows all your tests up
 

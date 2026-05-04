@@ -1,6 +1,7 @@
 ---
 date: 2025-03-27
 ---
+<meta property="og:published_time" content="2025-03-27">
 
 # Electric Bicycle for the Mind
 

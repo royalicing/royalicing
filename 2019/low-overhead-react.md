@@ -1,6 +1,7 @@
 ---
 date: 2019-05-25
 ---
+<meta property="og:published_time" content="2019-05-25">
 
 # Low Overhead React
 

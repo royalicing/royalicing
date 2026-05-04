@@ -1,6 +1,7 @@
 ---
 date: 2019-07-28
 ---
+<meta property="og:published_time" content="2019-07-28">
 
 # Linked: Fast Software, the Best Software by Craig Mod
 

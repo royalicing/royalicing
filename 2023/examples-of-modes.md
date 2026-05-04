@@ -1,6 +1,7 @@
 ---
 date: 2023-12-18
 ---
+<meta property="og:published_time" content="2023-12-18">
 
 # Examples of modes
 

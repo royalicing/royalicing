@@ -1,6 +1,7 @@
 ---
 date: 2023-04-27
 ---
+<meta property="og:published_time" content="2023-04-27">
 
 # Introducing Calculated World
 

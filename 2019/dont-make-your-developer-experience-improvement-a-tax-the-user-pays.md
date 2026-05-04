@@ -1,6 +1,7 @@
 ---
 date: 2019-09-03
 ---
+<meta property="og:published_time" content="2019-09-03">
 
 # Don’t make your developer experience improvement a tax the user pays
 

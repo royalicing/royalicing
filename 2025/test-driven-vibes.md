@@ -1,6 +1,7 @@
 ---
 date: 2025-03-30
 ---
+<meta property="og:published_time" content="2025-03-30">
 
 # Test Driven Vibes
 

@@ -1,6 +1,7 @@
 ---
 date: 2019-03-16
 ---
+<meta property="og:published_time" content="2019-03-16">
 
 # Typed Subatomic Styling: Part 1 — Benefits of TypeScript and CSS
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-09-12
 ---
+<meta property="og:published_time" content="2020-09-12">
 
 # Biasing your business to producing value in a public manner
 

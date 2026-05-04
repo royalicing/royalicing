@@ -1,6 +1,7 @@
 ---
 date: 2019-08-30
 ---
+<meta property="og:published_time" content="2019-08-30">
 
 # Lessons as a Developer from Web Directions Product
 

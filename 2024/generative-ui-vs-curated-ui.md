@@ -1,6 +1,7 @@
 ---
 date: 2024-12-05
 ---
+<meta property="og:published_time" content="2024-12-05">
 
 # Generative UI vs Curated UI
 

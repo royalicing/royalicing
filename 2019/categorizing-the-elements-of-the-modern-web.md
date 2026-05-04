@@ -1,6 +1,7 @@
 ---
 date: 2019-03-01
 ---
+<meta property="og:published_time" content="2019-03-01">
 
 # Categorizing the elements of the modern web
 

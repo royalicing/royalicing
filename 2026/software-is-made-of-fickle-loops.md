@@ -1,6 +1,7 @@
 ---
 date: 2026-02-04T06:57:38Z
 ---
+<meta property="og:published_time" content="2026-02-04T06:57:38Z">
 
 # Software is Made of Fickle Loops
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-05-14
 ---
+<meta property="og:published_time" content="2020-05-14">
 
 # Deno hits 1.0
 

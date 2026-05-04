@@ -1,6 +1,7 @@
 ---
 date: 2020-02-20
 ---
+<meta property="og:published_time" content="2020-02-20">
 
 # The tenacity of open
 

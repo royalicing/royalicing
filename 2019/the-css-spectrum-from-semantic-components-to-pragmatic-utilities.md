@@ -1,6 +1,7 @@
 ---
 date: 2019-01-02
 ---
+<meta property="og:published_time" content="2019-01-02">
 
 # The CSS Spectrum from Semantic Components to Pragmatic Utilities
 

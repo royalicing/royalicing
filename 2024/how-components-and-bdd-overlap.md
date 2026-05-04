@@ -2,6 +2,7 @@
 date: 2024-09-17
 substack: https://pgwsmith.substack.com/p/how-components-and-behavior-driven
 ---
+<meta property="og:published_time" content="2024-09-17">
 
 # How Components and Behavior-Driven Tests Overlap
 

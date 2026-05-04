@@ -1,6 +1,7 @@
 ---
 date: 2019-08-03
 ---
+<meta property="og:published_time" content="2019-08-03">
 
 # Linked: I assure you, medieval people bathed by Dr Eleanor Janega
 

@@ -1,6 +1,7 @@
 ---
 date: 2023-07-19
 ---
+<meta property="og:published_time" content="2023-07-19">
 
 # How is a WebAssembly module like a Ruby class?
 

@@ -1,6 +1,7 @@
 ---
 date: 2023-12-02
 ---
+<meta property="og:published_time" content="2023-12-02">
 
 # An Optimist uses a Pessimist’s Wi-Fi
 

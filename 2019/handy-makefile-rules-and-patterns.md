@@ -1,6 +1,7 @@
 ---
 date: 2019-01-03
 ---
+<meta property="og:published_time" content="2019-01-03">
 
 # Handy Makefile Rules and Patterns
 

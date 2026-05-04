@@ -1,6 +1,7 @@
 ---
 date: 2020-11-24
 ---
+<meta property="og:published_time" content="2020-11-24">
 
 # Vary variables not rules in CSS media queries
 

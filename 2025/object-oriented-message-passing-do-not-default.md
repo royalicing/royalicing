@@ -1,6 +1,7 @@
 ---
 date: 2025-05-19
 ---
+<meta property="og:published_time" content="2025-05-19">
 
 # Do not default to object-oriented or message-passing
 

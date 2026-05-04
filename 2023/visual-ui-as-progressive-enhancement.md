@@ -1,6 +1,7 @@
 ---
 date: 2023-11-09
 ---
+<meta property="og:published_time" content="2023-11-09">
 
 # Think of your visual UI as progressive enhancement on an accessible core
 

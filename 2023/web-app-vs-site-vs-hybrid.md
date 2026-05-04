@@ -1,6 +1,7 @@
 ---
 date: 2023-10-30
 ---
+<meta property="og:published_time" content="2023-10-30">
 
 # Web App vs Site vs Hybrid
 

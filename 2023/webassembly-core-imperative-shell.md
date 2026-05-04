@@ -1,6 +1,7 @@
 ---
 date: 2023-12-29
 ---
+<meta property="og:published_time" content="2023-12-29">
 
 # WebAssembly Core, Imperative Shell
 

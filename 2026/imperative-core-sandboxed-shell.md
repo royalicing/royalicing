@@ -1,6 +1,7 @@
 ---
 date: 2026-01-08
 ---
+<meta property="og:published_time" content="2026-01-08">
 
 # Imperative Core, Sandboxed Shell
 

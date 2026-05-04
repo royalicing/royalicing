@@ -1,6 +1,7 @@
 ---
 date: 2020-01-29
 ---
+<meta property="og:published_time" content="2020-01-29">
 
 # A well-written look at why the iPad is harder to use than an iPhone or Mac
 

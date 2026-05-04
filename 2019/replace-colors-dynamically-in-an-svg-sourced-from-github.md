@@ -1,6 +1,7 @@
 ---
 date: 2019-07-12
 ---
+<meta property="og:published_time" content="2019-07-12">
 
 # Replace colors dynamically in an SVG sourced from GitHub
 

@@ -1,6 +1,7 @@
 ---
 date: 2019-03-30
 ---
+<meta property="og:published_time" content="2019-03-30">
 
 # Programming language ⚡️ energy efficiency compared
 

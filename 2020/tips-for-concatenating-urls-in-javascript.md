@@ -1,6 +1,7 @@
 ---
 date: 2020-10-01
 ---
+<meta property="og:published_time" content="2020-10-01">
 
 # Tips for concatenating URLs in JavaScript
 

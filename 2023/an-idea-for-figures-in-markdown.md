@@ -1,6 +1,7 @@
 ---
 date: 2023-03-18
 ---
+<meta property="og:published_time" content="2023-03-18">
 
 # An Idea for Figures in Markdown
 

@@ -1,6 +1,7 @@
 ---
 date: 2026-01-14T20:45:00
 ---
+<meta property="og:published_time" content="2026-01-14T20:45:00">
 
 # Levers of Light
 

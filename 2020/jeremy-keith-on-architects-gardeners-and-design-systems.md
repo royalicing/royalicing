@@ -1,6 +1,7 @@
 ---
 date: 2020-01-30
 ---
+<meta property="og:published_time" content="2020-01-30">
 
 # Jeremy Keith on Architects, gardeners, and design systems
 

@@ -1,6 +1,7 @@
 ---
 date: 2026-03-13T05:14:45Z
 ---
+<meta property="og:published_time" content="2026-03-13T05:14:45Z">
 
 # Something Is Rotten in the State of Pennsylvania
 

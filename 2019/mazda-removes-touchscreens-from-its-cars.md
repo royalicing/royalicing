@@ -1,6 +1,7 @@
 ---
 date: 2019-06-17
 ---
+<meta property="og:published_time" content="2019-06-17">
 
 # Mazda removes touchscreens from its cars
 

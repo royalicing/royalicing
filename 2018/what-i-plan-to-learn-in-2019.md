@@ -1,6 +1,7 @@
 ---
 date: 2018-12-21
 ---
+<meta property="og:published_time" content="2018-12-21">
 
 # What I plan to learn in 2019
 

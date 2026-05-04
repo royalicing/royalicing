@@ -1,6 +1,7 @@
 ---
 date: 2025-03-13
 ---
+<meta property="og:published_time" content="2025-03-13">
 
 # Demos are Forcing Functions
 

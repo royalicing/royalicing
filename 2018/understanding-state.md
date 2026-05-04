@@ -1,6 +1,7 @@
 ---
 date: 2018-12-17
 ---
+<meta property="og:published_time" content="2018-12-17">
 
 # Understanding state
 

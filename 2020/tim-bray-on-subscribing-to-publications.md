@@ -1,6 +1,7 @@
 ---
 date: 2020-09-27
 ---
+<meta property="og:published_time" content="2020-09-27">
 
 # Tim Bray on subscribing to publications
 
